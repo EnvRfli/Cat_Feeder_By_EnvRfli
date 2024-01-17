@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "643468228934",
+    "firebase_url": "https://catfeederta-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "catfeederta",
+    "storage_bucket": "catfeederta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643468228934:android:1fbd71acc49e8accad4d47",
+        "android_client_info": {
+          "package_name": "com.example.catfeeder_flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643468228934-992sutlkh8iimp9kbchaikvetnma6vrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVZjSTDDWtY5uN7ITQ0U4YoGXo9lC2VAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643468228934-992sutlkh8iimp9kbchaikvetnma6vrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
