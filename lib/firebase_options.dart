@@ -44,40 +44,40 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyD_Yd9Xrt2dvpnawKrPy7JicFGB08gKdyU',
-    appId: '1:643468228934:web:545b6557291158c3ad4d47',
-    messagingSenderId: '643468228934',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'YOUR_SENDER_ID',
     projectId: 'catfeederta',
     authDomain: 'catfeederta.firebaseapp.com',
-    databaseURL: 'https://catfeederta-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL: 'YOUR_DATABASE_URL',
     storageBucket: 'catfeederta.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCVZjSTDDWtY5uN7ITQ0U4YoGXo9lC2VAQ',
-    appId: '1:643468228934:android:1fbd71acc49e8accad4d47',
-    messagingSenderId: '643468228934',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'YOUR_SENDER_ID',
     projectId: 'catfeederta',
-    databaseURL: 'https://catfeederta-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL: 'YOUR_DATABASE_URL',
     storageBucket: 'catfeederta.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAQHDdWqSw1lQ3lQa3IOYKnWUXC552ZVBA',
-    appId: '1:643468228934:ios:b368ae8e3cb193c1ad4d47',
-    messagingSenderId: '643468228934',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'YOUR_SENDER_ID',
     projectId: 'catfeederta',
-    databaseURL: 'https://catfeederta-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL: 'YOUR_DATABASE_URL',
     storageBucket: 'catfeederta.appspot.com',
     iosBundleId: 'com.example.catfeederFlutterapp',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAQHDdWqSw1lQ3lQa3IOYKnWUXC552ZVBA',
-    appId: '1:643468228934:ios:263d0276a450e036ad4d47',
-    messagingSenderId: '643468228934',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'YOUR_SENDER_ID',
     projectId: 'catfeederta',
-    databaseURL: 'https://catfeederta-default-rtdb.asia-southeast1.firebasedatabase.app',
+    databaseURL: 'YOUR_DATABASE_URL',
     storageBucket: 'catfeederta.appspot.com',
     iosBundleId: 'com.example.catfeederFlutterapp.RunnerTests',
   );
